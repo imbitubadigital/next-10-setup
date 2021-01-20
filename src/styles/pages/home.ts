@@ -28,3 +28,13 @@ export const Content = styled.main`
     line-height: 32px;
   }
 `
+
+export const WrapperSvg = styled.div`
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  svg {
+    width: 100%;
+    height: 100%;
+  }
+`
